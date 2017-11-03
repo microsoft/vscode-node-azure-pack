@@ -1,5 +1,5 @@
 
-# Azure Extension Pack for Node
+# Azure Extension Pack for Node Developers
 
 The Azure Extension Pack for Node developers installs a collection of extensions for building and deploying Node based applications and services to Azure.
 
