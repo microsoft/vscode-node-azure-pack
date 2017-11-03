@@ -2,7 +2,7 @@
     "name": "vscode-node-azure-pack",
     "version": "0.0.1",
     "publisher": "ms-vscode",
-    "displayName": "Azure Extension Pack for Node Developers",
+    "displayName": "Node Pack for Azure",
     "description": "A collection of extensions for building and deploying Node based applications and services to Azure",
     "license": "SEE LICENSE IN LICENSE",
     "galleryBanner": {
