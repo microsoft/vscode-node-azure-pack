@@ -3,7 +3,7 @@
     "version": "0.0.3",
     "publisher": "ms-vscode",
     "displayName": "Azure",
-    "description": "Extensions for building and deploying Node based applications and services to Azure",
+    "description": "Azure support for VS Code",
     "license": "SEE LICENSE IN LICENSE",
     "galleryBanner": {
         "color": "#0072c6",
