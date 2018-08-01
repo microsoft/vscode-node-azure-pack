@@ -13,8 +13,6 @@ The Azure Extension for Node developers installs a collection of extensions for 
 
 * The [Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions) extension lets you quickly browse, create, manage, deploy, and even debug Azure functions locally.
 
-* The [Azure Storage](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage) extension lets you browse Azure Blob Containers, File Shares, Tables, and Queues.
-
 * The [Azure Storage](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage) extension lets you deploy static websites and browse Azure Blob Containers, File Shares, Tables, and Queues.
 
 * The [Docker Tools](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) extension makes it easy to develop and deploy containerized microservice-based applications using Docker containers. 
