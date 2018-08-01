@@ -1,7 +1,7 @@
 
-# Azure Extension Pack for Node Developers
+# Azure Extensions Node Developers
 
-The Azure Extension Pack for Node developers installs a collection of extensions for building and deploying Node based applications and services to Azure.
+The Azure Extension for Node developers installs a collection of extensions for building and deploying Node based applications and services to Azure.
 
 > If you do not have an Azure subscription, [sign up today](https://azure.microsoft.com/en-us/free/?b=16.48) for a free account and get **$200** in Azure Credits to try out any combination of Azure services.
 
@@ -12,6 +12,8 @@ The Azure Extension Pack for Node developers installs a collection of extensions
 * The [Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions) extension lets you quickly browse, create, manage, deploy, and even debug Azure functions locally.
 
 * The [Azure Cosmos DB](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb) extension lets you create, manage, and query Cosmos DB accounts, including support for MongoDB, Graphs, Tables, and DocumentDB databases.
+
+* The [Azure Storage](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage) extension lets you deploy static websites and browse Azure Blob Containers, File Shares, Tables, and Queues.
 
 * The [Docker Tools](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) extension makes it easy to develop and deploy containerized microservice-based applications using Docker containers. 
 

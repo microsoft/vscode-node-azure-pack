@@ -1,9 +1,9 @@
 {
     "name": "vscode-node-azure-pack",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "ms-vscode",
-    "displayName": "Node Pack for Azure",
-    "description": "A collection of extensions for building and deploying Node based applications and services to Azure",
+    "displayName": "Azure",
+    "description": "Extensions for building and deploying Node based applications and services to Azure",
     "license": "SEE LICENSE IN LICENSE",
     "galleryBanner": {
         "color": "#0072c6",
@@ -26,14 +26,15 @@
         "Extension Packs"
     ],
     "engines": {
-        "vscode": "^1.17.0"
+        "vscode": "^1.26.0"
     },
-    "extensionDependencies": [
+    "extensionPack": [
         "ms-azuretools.vscode-azureappservice",
         "ms-azuretools.vscode-azurefunctions",
         "ms-azuretools.vscode-cosmosdb",
         "ms-vscode.azurecli",
         "msazurermtools.azurerm-vscode-tools",
-        "PeterJausovec.vscode-docker"
+        "PeterJausovec.vscode-docker",
+        "ms-azuretools.vscode-azurestorage"
     ]
 }
