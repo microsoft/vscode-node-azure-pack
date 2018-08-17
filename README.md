@@ -38,6 +38,8 @@ From there, you will be prompted to open the browser and follow the device OAuth
 
 ![Device login prompt](signinprompt.png)
 
+> Note: You may be prompted for access to your computer's secure credential storage service (e.g. Keychain Access on MacOS or Windows Credential Manager) so you don't need to sign in every time you start VS Code.
+
 ## Azure Explorer
 
 Once signed in, you can access your Azure resources through the Azure Explorer. If you have not signed into Azure yet, or if you don't have an Azure subscription, you can click on the approriate links.
