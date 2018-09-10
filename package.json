@@ -35,6 +35,7 @@
         "ms-azuretools.vscode-cosmosdb",
         "ms-vscode.azurecli",
         "msazurermtools.azurerm-vscode-tools",
-        "PeterJausovec.vscode-docker"
+        "PeterJausovec.vscode-docker",
+        "ms-mssql.mssql"
     ]
 }
