@@ -1,9 +1,9 @@
 {
     "name": "vscode-node-azure-pack",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "ms-vscode",
-    "displayName": "Azure",
-    "description": "Azure support for VS Code",
+    "displayName": "Azure Tools",
+    "description": "Get web site hosting, SQL and MongoDB data, Docker Containers, Serverless Functions and more, all on Azure, all from VS Code, in this one extension from Microsoft.",
     "license": "SEE LICENSE IN LICENSE",
     "galleryBanner": {
         "color": "#0072c6",
