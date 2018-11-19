@@ -3,7 +3,7 @@
 
 [Microsoft Azure](https://azure.microsoft.com/en-us/overview/what-is-azure/) support for Visual Studio Code is provided through a rich set of extensions that make it easy to discover and interact with the cloud services that power your applications. 
 
-> If you do not have an Azure subscription, [sign up today](https://azure.microsoft.com/en-us/free/?b=16.48) for a free account and get **$200** in Azure Credits to try out any combination of Azure services.
+> If you do not have an Azure subscription, [sign up today](https://azure.microsoft.com/en-us/free/?b=16.48) for a free account. You'll get 12 months of popular free services, **$200** in Azure Credits to try out any combination of Azure services, and access to 25+ always free services such as Azure Container Service, DevTest Labs, and Service Fabric.
 
 ## Azure Services
 
@@ -19,18 +19,17 @@
 
 * Store your **Docker** images in _private_ Container Registries using the **Azure Container Registry**, and run them in the cloud using App Service. VS Code's support for [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) helps you author `Dockerfile` and `docker-compose` files with rich completions (IntelliSense), syntax highlighting and checking, and linting support. The Explorer view makes it easy to build, run, and manage your local and remote containers and images. For more information, please see the [Docker Walkthrough](https://code.visualstudio.com/tutorials/docker-extension/getting-started).
 
-* The [**Azure CLI**](https://aka.ms/AzureCLI2) makes it easy to manage all of your Azure resources from a terminal. If you write CLI scripts, [VS Code's support](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli) provides syntax highlighting and completions (IntelliSense) for the CLI commands as well as your resources in Azure. You can execute one or more commands and even see the results in richly formatted `json`, document. For more information, please see the [Azure CLI Deployment Walkthrough](https://code.visualstudio.com/tutorials/nodejs-deployment/getting-started
-  ).
+* The [**Azure CLI**](https://aka.ms/AzureCLI2) makes it easy to manage all of your Azure resources from a terminal. If you write CLI scripts, [VS Code's support](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli) provides syntax highlighting and completions (IntelliSense) for the CLI commands as well as your resources in Azure. You can execute one or more commands and even see the results in richly formatted `json`, document. For more information, please see the [Azure CLI Deployment Walkthrough](https://code.visualstudio.com/tutorials/nodejs-deployment/getting-started).
   
-* You can also automate management of Azure resources using [Azure Resource Manager](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview) ("**ARM**") templates. VS Code's [support for ARM](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools) makes it easy to author these `json` documents with rich editing and navigation experiences for deployment templates and template language expressions, including completions (IntelliSense) for TLE function names, parameter references, signature help, Go to Definition, Peek Definition, and Find All References (Shift+F12) as well as Errors and Warnings.
+* You can also automate management of Azure resources using [Azure Resource Manager](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview) ("**ARM**") templates. VS Code's [support for ARM](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools) makes it easy to author these `json` documents with rich editing and navigation experiences for deployment templates and template language expressions, including completions (IntelliSense) for TLE function names, parameter references, signature help, Go to Definition, Peek Definition, and Find All References (`Shift+F12`) as well as Errors and Warnings.
 
-* The [Azure IoT Toolkit](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit) makes it easy to develop and connect your [IoT applications to Azure](https://docs.microsoft.com/en-us/azure/iot-hub/). With this extension, you can interact with Azure IoT Hub, manage devices connected to Azure IoT Hub, and generate code for Azure IoT application.
+* Develop and connect your [**IoT applications**](https://docs.microsoft.com/en-us/azure/iot-hub/) to Azure using the [Azure IoT Toolkit](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit). With this extension, you can interact with an Azure IoT Hub, manage connected devices, and generate code for your Azure IoT applications.
 
 ## Installation
 
 Intalling the Azure Tools installs all of the extensions listed above. Some of these extensions will also install the [Azure Account extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account) which provides a single Azure login and subscription filtering experience.
 
-You can easily uninstall individual extensions or all of them by uninstalling this extension, without affecting other extensions provided by this pack. 
+You can easily uninstall individual extensions if you are not interested in using them, without affecting other extensions provided by this pack. You can uninstall all of the extensions by uninstalling the Azure Tools extension. 
 
 ## Sign In
 
@@ -52,7 +51,7 @@ Once signed in, you can access many of your Azure resources through the Azure Ex
 
 ## Command Palette
 
-You can access almost all Azure Services through the Command Palette. Simply press `F1`, then type in `Azure` to find the available commands.
+You can access almost all Azure Services provided by these extensions through the Command Palette. Simply press `F1`, then type in `Azure` to find the available commands.
 
 ![Command Palette searching for the term Azure](commandpalette.png)
 
@@ -60,7 +59,7 @@ Docker commands can be found in the Command Palette in the same way, by pressing
 
 ## Contributing 
 
-Got a suggestion for the Azure Tools extension? Submit a new issue and a PR with an updated package.json and README.md and we'll take a look! 
+Got a suggestion for the Azure Tools extension? Submit a new issue and a PR with an updated `package.json` and `README.md` and we'll take a look! 
 
 Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.microsoft.com.
 
