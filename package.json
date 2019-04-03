@@ -39,6 +39,7 @@
         "msazurermtools.azurerm-vscode-tools",
         "PeterJausovec.vscode-docker",
         "ms-mssql.mssql",
-        "vsciot-vscode.azure-iot-toolkit"
+        "vsciot-vscode.azure-iot-toolkit",
+        "ms-azure-devops.azure-pipelines"
     ]
 }
