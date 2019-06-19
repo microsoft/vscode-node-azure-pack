@@ -1,6 +1,6 @@
 {
     "name": "vscode-node-azure-pack",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "publisher": "ms-vscode",
     "displayName": "Azure Tools",
     "description": "Get web site hosting, SQL and MongoDB data, Docker Containers, Serverless Functions and more, all on Azure, all from VS Code, in this one extension from Microsoft.",
@@ -36,7 +36,7 @@
         "ms-azuretools.vscode-azurestorage",
         "ms-azuretools.vscode-cosmosdb",
         "ms-vscode.azurecli",
-        "msazurermtools.azurerm-vscode-tools",
+        "ms-azuretools.azurerm-vscode-tools",
         "ms-azuretools.vscode-docker",
         "ms-mssql.mssql",
         "vsciot-vscode.azure-iot-toolkit",
