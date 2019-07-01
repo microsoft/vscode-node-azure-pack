@@ -25,6 +25,8 @@
 
 * You can also automate management of Azure resources using [Azure Resource Manager](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview) ("**ARM**") templates. VS Code's [support for ARM](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools) makes it easy to author these `json` documents with rich editing and navigation experiences for deployment templates and template language expressions, including completions (IntelliSense) for TLE function names, parameter references, signature help, Go to Definition, Peek Definition, and Find All References (`Shift+F12`) as well as Errors and Warnings.
 
+* Publishing a set of APIs? You can use the [Azure API Management](https://azure.microsoft.com/en-us/services/api-management/) service to manage all of your APIs in one place, to get insights into usage, and to secure your APIs (see [here](https://azure.github.io/api-management-resources/) for more information). VS Code's [support for API Management](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-apimanagement) lets you easily create and delete management API instances, import OpenAPI specs, edit policies, and even test your APIs! 
+
 * Develop and connect your [**IoT applications**](https://docs.microsoft.com/en-us/azure/iot-hub/) to Azure using the [Azure IoT Toolkit](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit). With this extension, you can interact with an Azure IoT Hub, manage connected devices, and generate code for your Azure IoT applications.
 
 ## Installation
@@ -38,10 +40,6 @@ You can easily uninstall individual extensions if you are not interested in usin
 To sign in to your Azure Account, simply press `F1` and type in `Azure: Sign in` (or click on the `Sign in to Azure...` node in the Explorer).
 
 ![Sign in to Azure through the Command Palette](signin.png)
-
-From there, you will be prompted to open the browser and follow the device OAuth login flow. Note that the code will be automatically copied to the clipboad for you.
-
-![Device login prompt](signinprompt.png)
 
 > Note: You may be prompted for access to your computer's secure credential storage service (e.g. Keychain Access on MacOS or Windows Credential Manager) so you don't need to sign in every time you start VS Code.
 
