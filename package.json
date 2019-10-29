@@ -38,9 +38,6 @@
         "ms-vscode.azurecli",
         "msazurermtools.azurerm-vscode-tools",
         "ms-azuretools.vscode-docker",
-        "ms-mssql.mssql",
-        "vsciot-vscode.azure-iot-toolkit",
-        "ms-azure-devops.azure-pipelines",
-        "ms-azuretools.vscode-apimanagement"
+        "ms-azure-devops.azure-pipelines"
     ]
 }
