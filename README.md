@@ -14,7 +14,7 @@
 
 - Have a **static site** you want to host? You can use [Azure Storage](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage) to host your site quickly and inexpensively. The Storage service also provides massive scale blob, file, and document storage with low latency and high throughput. VS Code's Storage support lets you deploy static sites, browse and edit Blob Containers, File Shares, Tables, and Queues. For more information, please see the [Static Site Walkthrough](https://code.visualstudio.com/tutorials/static-website/getting-started).
 
-- Manage your **Virtual Machines** in VS Code. Use the [Azure Virtual Machines](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines) extension to quickly create Virtual Machines with pre-configured SSH access. Use your  VMs for deploying apps or connect to them directly using the [Remote-SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh).
+- Manage your **Virtual Machines** in VS Code. Use the [Azure Virtual Machines](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines) extension to quickly create Virtual Machines with pre-configured SSH access. Use your  VMs for deploying apps or connect to them directly using the [Remote-SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) extension.
 
 - View all of your **Azure Resources Groups** and quickly navigate to them in the Azure View with the [Azure Resource Groups](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureresourcegroups) extension.
 
