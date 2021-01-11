@@ -38,6 +38,7 @@
         "ms-vscode.azurecli",
         "msazurermtools.azurerm-vscode-tools",
         "ms-azuretools.vscode-docker",
-        "ms-azure-devops.azure-pipelines"
+        "ms-azure-devops.azure-pipelines",
+        "bencoleman.armview"
     ]
 }
