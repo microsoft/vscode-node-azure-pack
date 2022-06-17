@@ -30,6 +30,7 @@
     },
     "extensionPack": [
         "ms-azuretools.vscode-azureappservice",
+        "ms-azuretools.vscode-azurestaticwebapps",
         "ms-azuretools.vscode-azurefunctions",
         "ms-azuretools.vscode-azurestorage",
         "ms-azuretools.vscode-cosmosdb",
