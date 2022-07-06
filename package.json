@@ -35,12 +35,6 @@
         "ms-azuretools.vscode-azurestorage",
         "ms-azuretools.vscode-cosmosdb",
         "ms-azuretools.vscode-azurevirtualmachines",
-        "ms-azuretools.vscode-azureresourcegroups",
-        "ms-vscode.azurecli",
-        "msazurermtools.azurerm-vscode-tools",
-        "ms-azuretools.vscode-bicep",
-        "ms-azuretools.vscode-docker",
-        "ms-azure-devops.azure-pipelines",
-        "bencoleman.armview"
+        "ms-azuretools.vscode-azureresourcegroups"
     ]
 }
