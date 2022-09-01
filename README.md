@@ -22,6 +22,10 @@
 
 - View all of your **Azure Resources Groups** and quickly navigate to them in the Azure View with the [Azure Resource Groups](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureresourcegroups) extension.
 
+## Azure Developer CLI
+
+Use the Azure [Developer CLI extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azure-dev) to create complete applications from templates then create the infrastructure and deploy the app in just a few simple commands.
+
 ## Installation
 
 Intalling the Azure Tools installs all of the extensions listed above. Some of these extensions will also install the [Azure Account extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account) which provides a single Azure login and subscription filtering experience.
