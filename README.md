@@ -2,7 +2,7 @@
 
 [Microsoft Azure](https://azure.microsoft.com/en-us/overview/what-is-azure/) support for Visual Studio Code is provided through a rich set of extensions that make it easy to discover and interact with the cloud services that power your applications.
 
-![Azure Explorer in VS Code](explorer.png)
+![Azure Explorer in VS Code](resources/readme/explorer.png)
 
 > If you do not have an Azure subscription, [sign up today](https://azure.microsoft.com/en-us/free/?b=16.48) for a free account. You'll get 12 months of popular free services, **\$200** in Azure Credits to try out any combination of Azure services, and access to 25+ always free services such as Azure Container Service, DevTest Labs, and Service Fabric.
 
@@ -36,7 +36,7 @@ You can easily uninstall individual extensions if you are not interested in usin
 
 To sign in to your Azure Account, simply press `F1` and type in `Azure: Sign in` (or click on the `Sign in to Azure...` node in the Explorer).
 
-![Sign in to Azure through the Command Palette](signin.png)
+![Sign in to Azure through the Command Palette](resources/readme/signin.png)
 
 > Note: You may be prompted for access to your computer's secure credential storage service (e.g. Keychain Access on MacOS or Windows Credential Manager) so you don't need to sign in every time you start VS Code.
 
@@ -48,7 +48,7 @@ Once signed in, you can access your Azure resources through the Azure Resource E
 
 You can access almost all Azure Services provided by these extensions through the Command Palette. Simply press `F1`, then type in `Azure` to find the available commands.
 
-![Command Palette searching for the term Azure](commandpalette.png)
+![Command Palette searching for the term Azure](resources/readme/commandpalette.png)
 
 Docker commands can be found in the Command Palette in the same way, by pressing `F1` and then typing in `Docker`.
 
