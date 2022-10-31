@@ -37,5 +37,8 @@
         "ms-azuretools.vscode-azurevirtualmachines",
         "ms-azuretools.vscode-azureresourcegroups",
         "ms-azuretools.azure-dev"
-    ]
+    ],
+    "devDependencies": {
+        "vsce": "^2.13.0"
+    }
 }
