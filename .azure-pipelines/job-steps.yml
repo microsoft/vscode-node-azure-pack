@@ -1,0 +1,29 @@
+steps:
+  - template: before-all.yml
+
+  - task: Npm@1
+    displayName: 'Install'
+    inputs:
+      command: ci
+
+  - task: Npm@1
+    displayName: 'Package VSIX'
+    inputs:
+      command: custom
+      customCommand: run vsce package
+
+  - task: CopyFiles@2
+    displayName: 'Copy Artifacts'
+    inputs:
+      Contents: '**/*.vsix'
+      TargetFolder: '$(build.artifactstagingdirectory)'
+    condition: and(eq(variables['Agent.OS'], 'Linux'), ne(variables['System.PullRequest.IsFork'], 'True'))
+
+  - task: PublishBuildArtifacts@1
+    displayName: 'Publish Artifacts'
+    inputs:
+      PathtoPublish: '$(build.artifactstagingdirectory)'
+      ArtifactName: 'vsix'
+    condition: and(eq(variables['Agent.OS'], 'Linux'), ne(variables['System.PullRequest.IsFork'], 'True'))
+
+  - template: after-all.yml
