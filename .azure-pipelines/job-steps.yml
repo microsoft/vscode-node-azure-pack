@@ -10,7 +10,7 @@ steps:
     displayName: 'Package VSIX'
     inputs:
       command: custom
-      customCommand: run vsce package
+      customCommand: run ci-package
 
   - task: CopyFiles@2
     displayName: 'Copy Artifacts'
