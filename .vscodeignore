@@ -4,8 +4,3 @@
 node_modules/**
 resources/readme/**
 .azure-pipelines/**
-
-# Temporary, until the pack is updated to deliver the new readme
-commandpalette.png
-explorer.png
-signin.png
