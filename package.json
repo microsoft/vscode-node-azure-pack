@@ -35,7 +35,7 @@
         "ms-azuretools.vscode-azurestorage",
         "ms-azuretools.vscode-cosmosdb",
         "ms-azuretools.vscode-azurevirtualmachines",
-        "ms-azuretools.vscode-azurecontainerapps"
+        "ms-azuretools.vscode-azurecontainerapps",
         "ms-azuretools.azure-dev"
     ],
     "scripts": {
