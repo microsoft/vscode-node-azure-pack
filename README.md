@@ -20,6 +20,8 @@
 
 - Manage your **Virtual Machines** in VS Code. Use the [Azure Virtual Machines](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines) extension to quickly create Virtual Machines with pre-configured SSH access. Use your VMs for deploying apps or connect to them directly using the [Remote-SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) extension.
 
+- Create or manage **Containerized Applications** with the [Azure Container Apps](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurecontainerapps) extension, enabling you to handle different parts of your app stack, such as frontend and backend. 
+
 - View all of your **Azure Resources Groups** and quickly navigate to them in the Azure View with the [Azure Resource Groups](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureresourcegroups) extension.
 
 ## Azure Developer CLI
