@@ -39,7 +39,9 @@
         "ms-azuretools.azure-dev"
     ],
     "scripts": {
-        "ci-package": "vsce package"
+        "build": "",
+        "package": "vsce package",
+        "test": ""
     },
     "devDependencies": {
         "vsce": "^2.13.0"
