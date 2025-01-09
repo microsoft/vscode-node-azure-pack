@@ -36,7 +36,8 @@
         "ms-azuretools.vscode-cosmosdb",
         "ms-azuretools.vscode-azurevirtualmachines",
         "ms-azuretools.vscode-azurecontainerapps",
-        "ms-azuretools.azure-dev"
+        "ms-azuretools.azure-dev",
+        "ms-azuretools.vscode-azure-github-copilot"
     ],
     "scripts": {
         "build": "",
