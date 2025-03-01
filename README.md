@@ -24,6 +24,8 @@
 
 - View all of your **Azure Resources Groups** and quickly navigate to them in the Azure View with the [Azure Resource Groups](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureresourcegroups) extension.
 
+- Auto-discover and manage your **SQL Server databases** with the [Azure SQL](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azuresql) extension. This extension allows you to easily connect to your SQL Server databases, browse tables, run queries, and manage your database schema directly from VS Code.
+
 ## Azure Developer CLI
 
 Use the Azure [Developer CLI extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azure-dev) to create complete applications from templates then create the infrastructure and deploy the app in just a few simple commands.

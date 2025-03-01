@@ -37,7 +37,8 @@
         "ms-azuretools.vscode-azurevirtualmachines",
         "ms-azuretools.vscode-azurecontainerapps",
         "ms-azuretools.azure-dev",
-        "ms-azuretools.vscode-azure-github-copilot"
+        "ms-azuretools.vscode-azure-github-copilot",
+        "ms-azuretools.vscode-azuresql"
     ],
     "scripts": {
         "build": "",
@@ -46,5 +47,8 @@
     },
     "devDependencies": {
         "@vscode/vsce": "^3.2.1"
+    },
+    "dependencies": {
+        "mssql": "^7.1.3"
     }
 }
