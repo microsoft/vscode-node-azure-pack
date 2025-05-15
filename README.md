@@ -8,6 +8,8 @@
 
 ## Azure Services
 
+- [GitHub Copilot for Azure](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot) integrates support for GitHub Copilot agent and ask modes. Use Azure tools in agent mode to automatically complete Azure tasks, or chat with @azure in ask mode to get help with Azure services, development for Azure, and Azure DevOps tasks.
+
 - Host your **Single Page and Serverless Web Apps (SPA & Jamstack)** using [Azure Static Web Apps](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps). Connect your GitHub repo to publish your apps directly to Azure and seamlessly add serverless backends powered by Azure Functions.
 
 - Host your **full stack web sites and APIs** using [App Service](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice), Azure's fully-managed Platform as a Service (PaaS) that lets you deploy and scale web, mobile, and API apps. The Azure App Service extension lets you quickly create sites, deploy them, view logs, and even set environment variables (such as a Connection String), right from within VS Code. For more information, see the [App Service Walkthrough](https://code.visualstudio.com/tutorials/app-service-extension/getting-started).
@@ -26,10 +28,6 @@
 
 - View all of your **Azure Resources Groups** and quickly navigate to them in the Azure View with the [Azure Resource Groups](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureresourcegroups) extension.
 
-## Azure Developer CLI
-
-Use the Azure [Developer CLI extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azure-dev) to create complete applications from templates then create the infrastructure and deploy the app in just a few simple commands.
-
 ## Installation
 
 Installing the Azure Tools installs all of the extensions listed above. Some of these extensions will also install the [Azure Account extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account) which provides a single Azure login and subscription filtering experience.
@@ -44,6 +42,17 @@ To sign in to your Azure Account, simply press `F1` and type in `Azure: Sign in`
 
 > Note: You may be prompted for access to your computer's secure credential storage service (e.g. Keychain Access on MacOS or Windows Credential Manager) so you don't need to sign in every time you start VS Code.
 
+## Copilot Integration
+
+**Ask mode** can help you use natural language to interact with large language models to ask questions about Azure topics.
+
+ - **@azure** What kinds of AI services does Azure offer?
+ - **@azure** What’s the difference between Azure Container Apps and Azure Kubernetes Service?
+
+**Agent mode** can help you with completing Azure-related tasks by automatically using tools from GitHub Copilot for Azure. You can let agent mode decide on those tools, or you can guide the process by choosing particular tools from the GitHub Copilot for Azure toolset.
+
+![GitHub Copilot for Azure in action](resources/readme/copilot-intro.gif)
+
 ## Azure Explorer
 
 Once signed in, you can access your Azure resources through the Azure Resource Explorer. If you have not signed into Azure yet, or if you don't have an Azure subscription, you can click on the appropriate links. Use the Workspace explorer for commands related to your code such as deploying and creating new Azure-specific projects.
@@ -55,6 +64,10 @@ You can access almost all Azure Services provided by these extensions through th
 ![Command Palette searching for the term Azure](resources/readme/commandpalette.png)
 
 Docker commands can be found in the Command Palette in the same way, by pressing `F1` and then typing in `Docker`.
+
+## Azure Developer CLI
+
+Use the Azure [Developer CLI extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azure-dev) to create complete applications from templates then create the infrastructure and deploy the app in just a few simple commands.
 
 ## Contributing
 
