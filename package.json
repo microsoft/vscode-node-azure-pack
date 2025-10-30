@@ -3,7 +3,7 @@
     "version": "1.7.0",
     "publisher": "ms-vscode",
     "displayName": "Azure Tools",
-    "description": "Get web site hosting, SQL and MongoDB data, Docker Containers, Serverless Functions and more, all on Azure, all from VS Code, in this one extension from Microsoft.",
+    "description": "Build, deploy, and manage Azure applications with support from Copilot all without leaving VS Code.",
     "license": "SEE LICENSE IN LICENSE",
     "galleryBanner": {
         "color": "#0072c6",

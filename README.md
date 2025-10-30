@@ -3,8 +3,6 @@
 Build, deploy, and manage Azure applications without leaving VS Code.
 This extension pack combines the most popular Azure tools so you can create cloud apps faster and easier.
 
-![Azure Tools in VS Code](resources/readme/sidebar.png)
-
 ## ✅ Why Use the Azure Tools Extension Pack?
 
 * **All-in-One Solution** – Install essential Azure extensions in one click.
