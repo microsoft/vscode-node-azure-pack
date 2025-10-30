@@ -4,7 +4,7 @@
     "publisher": "ms-vscode",
     "displayName": "Azure Tools",
     "description": "Build, deploy, and manage Azure applications with support from Copilot all without leaving VS Code.",
-    "license": "SEE LICENSE IN LICENSE",
+    "license": "MIT",
     "galleryBanner": {
         "color": "#0072c6",
         "theme": "dark"
@@ -19,7 +19,8 @@
     },
     "keywords": [
         "azure",
-        "node"
+        "cloud",
+        "hosting"
     ],
     "categories": [
         "Azure",
