@@ -1,6 +1,6 @@
 {
     "name": "vscode-node-azure-pack",
-    "version": "1.7.0",
+    "version": "1.8.0",
     "publisher": "ms-vscode",
     "displayName": "Azure Tools",
     "description": "Build, deploy, and manage Azure applications with support from Copilot all without leaving VS Code.",
