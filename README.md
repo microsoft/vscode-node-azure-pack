@@ -12,17 +12,21 @@ This extension pack combines the most popular Azure tools so you can create clou
 * **Boost Productivity** – No need to switch between the Azure Portal and your editor.
 * **Cross-Platform** – Works on Windows, macOS, and Linux.
 
-## 📦 Included Azure Services
+## 📦 Included Azure Extensions
 
-* [Azure Resource Manager](https://learn.microsoft.com/azure/) – View and manage your Azure resources in VS Code.
-* [GitHub Copilot for Azure](https://learn.microsoft.com/azure/developer/github/copilot-azure-overview) – Get AI-powered code suggestions tailored for Azure development.
 * [App Service](https://learn.microsoft.com/azure/app-service/) – Deploy and manage web apps on Azure.
-* [Functions](https://learn.microsoft.com/azure/azure-functions/) – Build and debug serverless applications.
+* [Azure AI Foundry](https://learn.microsoft.com/azure/ai-foundry/) – Build, evaluate, and manage AI solutions from VS Code.
+* [Azure Developer CLI](https://learn.microsoft.com/azure/developer/azure-developer-cli/) – Scaffold, provision, and deploy cloud apps using `azd` workflows.
+* [Azure Load Testing](https://learn.microsoft.com/azure/load-testing/) – Create and run load tests to evaluate application performance.
+* [Azure MCP Server](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-mcp-server) – Connect Azure tools to MCP workflows from within VS Code.
+* [Azure Resources](https://learn.microsoft.com/azure/) – View and manage your Azure resources in VS Code.
 * [Container Apps](https://learn.microsoft.com/azure/container-apps/) – Develop, deploy, and manage containerized applications.
 * [Cosmos DB](https://learn.microsoft.com/azure/cosmos-db/) – Work with your NoSQL (e.g., MongoDB) databases directly.
+* [Functions](https://learn.microsoft.com/azure/azure-functions/) – Build and debug serverless applications.
+* [GitHub Copilot for Azure](https://learn.microsoft.com/azure/developer/github/copilot-azure-overview) – Get AI-powered code suggestions tailored for Azure development.
 * [Static Web Apps](https://learn.microsoft.com/azure/static-web-apps/) – Develop and deploy static web apps with ease.
-* [Virtual Machines](https://learn.microsoft.com/azure/virtual-machines/) – Manage your VMs without leaving your editor.
 * [Storage](https://learn.microsoft.com/azure/storage/) – Access blobs, queues, and tables from VS Code.
+* [Virtual Machines](https://learn.microsoft.com/azure/virtual-machines/) – Manage your VMs without leaving your editor.
 
 ### Ready to Build on Azure?
 
