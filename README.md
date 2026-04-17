@@ -15,7 +15,7 @@ This extension pack combines the most popular Azure tools so you can create clou
 ## 📦 Included Azure Services
 
 * [Azure Resource Manager](https://learn.microsoft.com/azure/) – View and manage your Azure resources in VS Code.
-* [GitHub Copilot for Azure](https://learn.microsoft.com/azure/developer/github/copilot-azure-overview) – Get AI-powered code suggestions tailored for Azure development.
+* [Azure MCP Server extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-mcp-server) – Use MCP-powered Azure tooling and workflows directly from VS Code.
 * [App Service](https://learn.microsoft.com/azure/app-service/) – Deploy and manage web apps on Azure.
 * [Functions](https://learn.microsoft.com/azure/azure-functions/) – Build and debug serverless applications.
 * [Container Apps](https://learn.microsoft.com/azure/container-apps/) – Develop, deploy, and manage containerized applications.
