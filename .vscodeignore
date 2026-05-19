@@ -3,4 +3,4 @@
 .gitignore
 node_modules/**
 resources/readme/**
-.azure-pipelines/**
+.config/**
