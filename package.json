@@ -45,6 +45,7 @@
     ],
     "scripts": {
         "build": "",
+        "lint": "",
         "package": "vsce package",
         "test": ""
     },
